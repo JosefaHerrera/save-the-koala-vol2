@@ -1,0 +1,171 @@
+/*
+wood brown: A89F68;
+army green: 41521F;
+*/
+body{
+    padding: 0;
+    margin:0;
+    overflow-x: hidden;
+}
+/*NAVBAR*/
+.first-section{
+    background-image: url(../img/portada.jpg);
+    height: 100vh;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.navbar-default {
+    background-color: transparent;
+    background: transparent;
+    border-color: transparent;
+}
+
+/* Color de la navbar */
+
+.navbar-default .navbar-brand {
+    color: #FFFFFF;
+}
+
+.navbar-default .navbar-nav li a {
+color: #FFFFFF;
+}
+
+/*BIENVENIDA*/
+
+img{
+    width: 100%;
+}
+.white{
+    color:#FFFFFF;
+        padding-top: 230px;
+}
+
+.btn-default{
+    color:#FFF;
+    background-color:#41521F;
+    border-color:#41521F;
+}
+
+
+
+/*SECTION 2 FOUNDATION INFORMATION*/
+.section2{
+    padding: 30px;
+}
+.fundacion-texto p{
+    color:black;
+}
+.fundacion-texto h1,a{
+    color:#A89F68;
+}
+.cafe{
+    color:#A89F68;
+}
+
+/*SECTION 3*/
+.their-section {
+    background-color: #A89F68;
+    padding-top: 63px;
+}
+.cosita {
+    border: 10px solid white;
+    background-image: url(../img/cosita.jpg);
+    background-size: 100%;
+    height: 300px;
+    margin-bottom: 40px;
+    background-repeat: no-repeat;
+}
+
+.cosita-text{
+    color:white;
+}
+.cosita-text h4{
+    color:#41521F ;
+}
+
+
+/*SECTION 4*/
+.four-section{
+    background-image: url(../img/all.jpg);
+    height: 100vh;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.help-koala{
+    padding-top: 109px;
+    color: white;
+}
+
+/*SECTION 5*/
+.five-section{
+    padding:100px;
+}
+
+ #hard{
+    font-size: 24px;
+    color:#A89F68;
+    padding-bottom: 20px;
+}
+#animales{
+    color:#A89F68;
+}
+
+/*SECTION 6*/
+.six-section{
+    background-color: #A89F68;
+    padding: 100px;
+}
+
+ #hard2{
+    font-size: 24px;
+    color:#41521F;
+    padding-bottom: 20px;
+}
+
+.negrita{
+    font-weight: bold;
+    color: black;
+}
+
+.letra-grande{
+    font-size: 90px;
+    color: white;
+}
+
+
+
+/*SECTION*/
+.seven-section{
+    background-color:#41521F;
+    padding:100px;
+}
+
+ul {
+    padding: 18px;
+    list-style: none;
+    padding-left: 45px;
+}
+
+.about{
+    color:#A89F68;
+}
+
+#p2{
+    color: white;
+}
+
+#line-white{
+    color: white;
+}
+
+span{
+    font-size: 17px;
+    color:white;
+}
+
+.peso {
+    margin-top: 22px;
+    position: absolute;
+
+}
