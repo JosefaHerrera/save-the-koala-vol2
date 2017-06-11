@@ -46,6 +46,12 @@ img{
     border-color:#41521F;
 }
 
+.btn-default:hover{
+    color:black;
+    background-color: #41521F;
+    border-color: #41521F;
+}
+
 
 
 /*SECTION 2 FOUNDATION INFORMATION*/
@@ -132,10 +138,22 @@ img{
     font-size: 90px;
     color: white;
 }
+.btn-collapse {
+    padding: 12px;
+    /* margin: 20px; */
+    padding-left: 21px;
+    padding-right: 23px;
+    font-size: 17px;
+    border-radius: 8px;
+    font-weight: 00;
+}
+
+.collapse2{
+    padding-top: 13px;
+}
 
 
-
-/*SECTION*/
+/*SECTION 7 */
 .seven-section{
     background-color:#41521F;
     padding:100px;
@@ -144,7 +162,10 @@ img{
 ul {
     padding: 18px;
     list-style: none;
-    padding-left: 45px;
+}
+a:hover{
+    color: white;
+
 }
 
 .about{
